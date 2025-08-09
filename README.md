@@ -6,9 +6,9 @@ Oltre che gestire la manodopera, i materiali a disposizione e gli edifici preced
 Per creare il database eseguire lo script "CreazioneTabelle.sql". Una volta fatto, tutti gli altri script possono essere eseguiti su di esso.
 
 Oltre che tutti gli script SQL, lo zip contiene tre diverse documentazioni:
-    - documentazione.pdf è la guida principale al database
-    - generalizzazione.pdf mostra la prima struttura del database secondo il formalismo entity-relationship
-    - ristrutturazione.pdf mostra la struttura finale del database dopo aver risolto tutte le generalizzazioni in generalizzazione.pdf
+- documentazione.pdf è la guida principale al database
+- generalizzazione.pdf mostra la prima struttura del database secondo il formalismo entity-relationship
+- ristrutturazione.pdf mostra la struttura finale del database dopo aver risolto tutte le generalizzazioni in generalizzazione.pdf
 
 Come già intuibile questo progetto ha bisogno di MySQL per funzionare.
 Al progetto hanno lavorato due studenti.
